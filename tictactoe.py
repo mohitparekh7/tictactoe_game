@@ -1,8 +1,3 @@
-#ToDo
-
-# USER SELECTS EITHER X OR O
-# TWO PLAYER PLAYING OPTION
-
 board = [' ' for x in range(11)]
 
 def insertLetter(letter,pos):
